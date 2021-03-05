@@ -1,4 +1,4 @@
-# mccarthy-wdd-130
-This is my final project site for WDD 130 at BYU-I.
+# WDD 130 Final Project
+Owner: Noah McCarthy
 
-THIS IS A CHANGE!!!!
+Semester: Winter 2021
